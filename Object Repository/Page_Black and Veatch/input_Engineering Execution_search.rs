@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>209ededb-8b2f-459b-8810-5917005d24fc</webElementGuid>
+      <webElementGuid>0450b6c5-487b-4777-8eb3-d01d21cd55fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>274d8cac-2880-4b3e-9a19-fa7fae48df9e</webElementGuid>
+      <webElementGuid>1942fc8e-37a1-4ce0-b1a2-19043d169931</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>InputBarSearch</value>
-      <webElementGuid>8da3385b-6917-4f7b-ad1d-3e46ddad3d21</webElementGuid>
+      <webElementGuid>1087b4dc-d9da-416e-90ef-29ac0a822298</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>8ac2899c-74ff-4941-a718-e1e9b8995988</webElementGuid>
+      <webElementGuid>780894a6-ccb9-429b-ae0c-b2d5895f291c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search here...</value>
-      <webElementGuid>7f32e534-f669-4243-a8ab-894861f7d317</webElementGuid>
+      <webElementGuid>d2755784-feb9-4f40-853e-76bf141d45ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>value</name>
       <type>Main</type>
       <value>7</value>
-      <webElementGuid>03103910-830d-445b-8764-e31eaca339a4</webElementGuid>
+      <webElementGuid>11e60f12-fc08-4bab-94ee-5e7708f483bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;search&quot;)</value>
-      <webElementGuid>07d947a1-6176-4048-8fee-b8132aecef4f</webElementGuid>
+      <webElementGuid>62f2fcd6-887c-48bf-aa1c-990251ae566f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='search']</value>
-      <webElementGuid>be0c7de6-74f1-4fc6-9451-ded0ae5ef59e</webElementGuid>
+      <webElementGuid>ad877337-ae02-424e-abf4-3808b8c50cc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='networkDetector']/div/div/div[2]/div/div/div/input</value>
-      <webElementGuid>48dee53d-fb9c-45ad-bff5-d1ca182194d3</webElementGuid>
+      <webElementGuid>9a8bcabd-49ac-4177-ab05-731d7bd5c02c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>c2d712db-431a-4742-b2ca-011ff3478dc3</webElementGuid>
+      <webElementGuid>3ca8bad6-ad0e-45d8-83f5-7e6d18fb6438</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'search' and @type = 'text' and @placeholder = 'Search here...']</value>
-      <webElementGuid>edfa9707-76bc-4be4-95ec-1da2a89b8e71</webElementGuid>
+      <webElementGuid>15f09377-7545-4e3d-97eb-0a04e954b220</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

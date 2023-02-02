@@ -17,3 +17,34 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://sit-engig.bv.com/id/D1Hdz0nE4P')
+
+WebUI.setText(findTestObject('Object Repository/Page_Black and Veatch/input_Work Email_userEmail'), 'structural@bv.com')
+
+WebUI.click(findTestObject('Object Repository/Page_Black and Veatch/button_Sign In'))
+
+WebUI.click(findTestObject('Object Repository/Page_Black and Veatch/img_Engineering Execution_searchRefAfter'))
+
+WebUI.setText(findTestObject('Object Repository/Page_Black and Veatch/input_Engineering Execution_search'), '74690')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Black and Veatch/input_Engineering Execution_search'), Keys.chord(
+        Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Page_Black and Veatch/p_74690'))
+
+WebUI.click(findTestObject('Object Repository/Page_Black and Veatch/div_Change Management'))
+
+WebUI.click(findTestObject('Object Repository/Page_Black and Veatch/button_Change Assessment'))
+
+WebUI.click(findTestObject('Object Repository/Page_Black and Veatch/div_WBS Information'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Black and Veatch/span_Foundation List'), 'Foundation List')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Black and Veatch/th_Foundation Tag'), 'Foundation Tag')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Black and Veatch/th_Foundation Name'), 'Foundation Name')
+
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Black and Veatch/th_CWA NumberName'), 'CWA Number/Name')
+

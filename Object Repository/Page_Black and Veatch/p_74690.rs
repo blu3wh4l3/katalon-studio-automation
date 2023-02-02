@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Sign In</name>
+   <name>p_74690</name>
    <tag></tag>
-   <elementGuidId>c15610e8-10b5-4d8e-b8c0-ebb4b6fa858f</elementGuidId>
+   <elementGuidId>1836e7bc-0e44-4649-9c81-effa4ab44711</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='networkDetector']/div/div/div/div/form/button</value>
+         <value>//div[@id='networkDetector']/div/div/div[2]/div[2]/div/div/div/div/p</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>button.btn.btn-primary.btn-md.btn-block</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>986ec43e-d86b-47b0-b35a-fddc071b23ca</webElementGuid>
+      <value>p</value>
+      <webElementGuid>b862f319-d2f1-477e-a37a-3cb8bc08d764</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-md btn-block</value>
-      <webElementGuid>f5e26081-9761-46c3-a891-52bb910d0c76</webElementGuid>
+      <value>project-id</value>
+      <webElementGuid>c338a775-d1b3-4f70-82d2-fd2eaffff7bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Sign In</value>
-      <webElementGuid>382edfdb-d153-4320-b519-f8ea5e8ec995</webElementGuid>
+      <value>74690</value>
+      <webElementGuid>e8e59979-a1dc-4c1b-acbb-b3dea98f3a6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;networkDetector&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container-fluid mh-100 loginMainDiv&quot;]/div[@class=&quot;card w-50&quot;]/div[@class=&quot;card-body&quot;]/form[1]/button[@class=&quot;btn btn-primary btn-md btn-block&quot;]</value>
-      <webElementGuid>c5385ba9-36dc-4518-bdd4-853d8a1317f2</webElementGuid>
+      <value>id(&quot;networkDetector&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container-fluid px-4 landingContainer&quot;]/div[@class=&quot;project-category&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-6 col-xs-12 landingProjectCards&quot;]/div[@class=&quot;card landingcard&quot;]/div[@class=&quot;project-card-wrapper&quot;]/div[@class=&quot;card-body&quot;]/p[@class=&quot;project-id&quot;]</value>
+      <webElementGuid>14e65b1b-1cf4-448b-a919-53d2988b2d34</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='networkDetector']/div/div/div/div/form/button</value>
-      <webElementGuid>16d42535-31fb-4a48-9593-829e0e3fd423</webElementGuid>
+      <value>//div[@id='networkDetector']/div/div/div[2]/div[2]/div/div/div/div/p</value>
+      <webElementGuid>760e4df9-1f25-4f9d-924b-c10fc9aa6796</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[1]</value>
-      <webElementGuid>04e201e8-edf6-4882-97d4-c540489b355b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Engineering Execution'])[1]/following::p[1]</value>
+      <webElementGuid>07817ba1-1ccb-4a9c-a38c-92a5da7855a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work Email'])[1]/following::button[1]</value>
-      <webElementGuid>31043c68-7c6d-42c7-a0b7-7bd866a03fb2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/following::p[1]</value>
+      <webElementGuid>df36be73-b819-46b4-9ec4-e6403b6c5e48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In with AD'])[1]/preceding::button[1]</value>
-      <webElementGuid>48fb88b3-6a3c-4555-a579-2ca1ce3efae5</webElementGuid>
+      <value>//*/text()[normalize-space(.)='74690']/parent::*</value>
+      <webElementGuid>08f9fb43-4fd4-4f60-9a8c-60acfa283195</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button</value>
-      <webElementGuid>84e92aa3-5b3d-440c-9735-e2f360209be9</webElementGuid>
+      <value>//div[2]/div[2]/div/div/div/div/p</value>
+      <webElementGuid>f318fee8-0929-4f24-af69-10e556cc5367</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[(text() = 'Sign In' or . = 'Sign In')]</value>
-      <webElementGuid>30e16254-0ad3-4cd2-b7b6-a61dc772fd07</webElementGuid>
+      <value>//p[(text() = '74690' or . = '74690')]</value>
+      <webElementGuid>0de764b0-3584-4294-bffa-438747cf30e5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

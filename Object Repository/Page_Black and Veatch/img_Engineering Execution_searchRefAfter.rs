@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>89a02ff9-35fe-4ffb-a8f3-3b626fd37473</webElementGuid>
+      <webElementGuid>746be539-e9be-4310-8c78-f20d1d3c3652</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>alt</name>
       <type>Main</type>
       <value>search-icon</value>
-      <webElementGuid>8175c073-e098-4b45-b6cb-f3d667946180</webElementGuid>
+      <webElementGuid>2f733a4f-9abe-49cb-b929-9a505fd8316c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>searchRefAfter</value>
-      <webElementGuid>9e5fb540-d7a4-4bf7-bf8a-0b27aa777804</webElementGuid>
+      <webElementGuid>b86388fe-ca6e-42ad-ab79-196135ff9bae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/static/media/search.ddf5b17f.svg</value>
-      <webElementGuid>2a04107d-b713-46bd-95b3-77bfe7aee490</webElementGuid>
+      <webElementGuid>f6898fc8-a140-4936-8c67-785729846092</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>role</name>
       <type>Main</type>
       <value>presentation</value>
-      <webElementGuid>a4744d39-a5ab-4604-9773-745372fa16d8</webElementGuid>
+      <webElementGuid>a2c0c555-9e62-4024-8823-6f13c0e79843</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;networkDetector&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container-fluid px-4 landingContainer&quot;]/div[@class=&quot;project-category&quot;]/div[@class=&quot;d-flex  align-items-center px-1 mb-2&quot;]/div[@class=&quot;search-container&quot;]/img[@class=&quot;searchRefAfter&quot;]</value>
-      <webElementGuid>0ea8e8fc-7891-4ab2-9261-24ca0fcf461d</webElementGuid>
+      <webElementGuid>7697dc56-bd6e-420e-ab71-49b95f88397a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='networkDetector']/div/div/div[2]/div/div/img</value>
-      <webElementGuid>d3509735-1923-4663-bf07-f22898b555c7</webElementGuid>
+      <webElementGuid>5505e5a0-9e38-478e-b01a-bf3f93240f4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:img</name>
       <type>Main</type>
       <value>(//img[@alt='search-icon'])[2]</value>
-      <webElementGuid>0db9aa2a-9f46-468c-8efd-6a4cc9270ead</webElementGuid>
+      <webElementGuid>a82f4a0a-30c6-4585-a482-6c5dfeee644b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/img</value>
-      <webElementGuid>3103696a-41ba-468f-866c-557cb07670f9</webElementGuid>
+      <webElementGuid>569a6c3e-e570-4098-af88-76991a0b438b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@alt = 'search-icon' and @src = '/static/media/search.ddf5b17f.svg']</value>
-      <webElementGuid>70fa2a37-d5ce-4d34-b823-5ab082ef3c23</webElementGuid>
+      <webElementGuid>7bb75700-50f2-458f-bcbf-58fc4b81ae99</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>54d361ca-ab8d-40c8-a21e-8241e42c4ad3</webElementGuid>
+      <webElementGuid>5493a13d-359d-4494-abaa-a474074cca8a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>step-title </value>
-      <webElementGuid>238f09d0-839a-4f1f-85fa-9476cc3a5372</webElementGuid>
+      <webElementGuid>a39dcd91-ab7a-4aa3-94d6-5422cac2f45a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Change Management</value>
-      <webElementGuid>3338dd9e-4b09-4132-b59b-64ebb88bfc26</webElementGuid>
+      <webElementGuid>04c08c08-1602-48a2-98e4-a892d2aa4caa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;networkDetector&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;project-header engineering-execution&quot;]/div[@class=&quot;project-topbar&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;right-section col-md-9&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;project-step col&quot;]/a[@class=&quot;nav-menu-link&quot;]/div[@class=&quot;step-title&quot;]</value>
-      <webElementGuid>350d95c4-942c-4a89-8c48-06ad82b9be79</webElementGuid>
+      <webElementGuid>4e9fcd22-6dcf-45a4-8042-35a253961a12</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='networkDetector']/div/div/div/div/div[2]/div/div[6]/a/div[2]</value>
-      <webElementGuid>3e8272c9-4484-473e-b654-c11ff44fb001</webElementGuid>
+      <webElementGuid>54963ed9-3131-427f-945a-a27130a750b2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reference Library'])[1]/following::div[3]</value>
-      <webElementGuid>a6d0acb0-6f69-490b-ad36-cb691e29bddc</webElementGuid>
+      <webElementGuid>7b05810c-9091-408f-86f9-edbef5434584</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Inputs/ Outputs'])[1]/following::div[6]</value>
-      <webElementGuid>1e75856a-7616-4c1a-83d3-bdc506fa1e0f</webElementGuid>
+      <webElementGuid>82222ea4-3baf-408d-ba23-d5130bb977ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/preceding::div[1]</value>
-      <webElementGuid>f86f51d0-9599-4c9b-8993-cbac399d1a12</webElementGuid>
+      <webElementGuid>77ee3291-1f67-4370-94c8-30b324143806</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='My Gigs'])[1]/preceding::div[1]</value>
-      <webElementGuid>63bd05b8-cccf-4071-8ca6-08109c0fec4f</webElementGuid>
+      <webElementGuid>6d006641-fa58-4f2d-b158-8cf963cd2bf8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Change Management']/parent::*</value>
-      <webElementGuid>6cfe1acf-8243-43f3-886f-3d42b3719e24</webElementGuid>
+      <webElementGuid>969c0d43-39f6-4ea2-849f-32e203e68588</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/a/div[2]</value>
-      <webElementGuid>8de53952-3b28-4fbc-8635-7269e88f6446</webElementGuid>
+      <webElementGuid>cfb444c6-0a6f-4d67-9553-4cf1e15e75ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Change Management' or . = 'Change Management')]</value>
-      <webElementGuid>4c8e9516-a6f9-4083-a083-c4ebc5d26edf</webElementGuid>
+      <webElementGuid>ab5188d4-0d4f-4234-8064-c9f20aa41f16</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
