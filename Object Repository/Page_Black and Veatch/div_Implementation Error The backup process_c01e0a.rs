@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Implementation Error The backup process_c01e0a</name>
+   <tag></tag>
+   <elementGuidId>5e3aec4e-da53-4d54-9771-2197792c1a13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='networkDetector']/div/nav/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.alert.alert-danger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>642d5425-fda7-40b0-b1a6-504bf612c704</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert alert-danger</value>
+      <webElementGuid>4000a9e2-32b9-472f-a4f5-ce216900d9a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Implementation Error: The backup process has failed to complete for Change Instance MC12, contact technical support. This message was triggered on 01-23-2023.</value>
+      <webElementGuid>3f78840d-8197-41d0-a3f9-9261aec7aef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;networkDetector&quot;)/div[@class=&quot;App&quot;]/nav[@class=&quot;navbar navbar-light bg-light flex-nowrap unselectable&quot;]/div[@class=&quot;alert alert-danger&quot;]</value>
+      <webElementGuid>419f7f5c-e768-407c-b9b9-f6d907b0ea4a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='networkDetector']/div/nav/div[2]</value>
+      <webElementGuid>949b0c26-67e0-481a-b6c6-8a7791daf560</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SD'])[1]/preceding::div[1]</value>
+      <webElementGuid>cd616835-3add-4595-8390-d63b1b76e9b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Engineering Execution'])[1]/preceding::div[3]</value>
+      <webElementGuid>2b6ad8b7-8df4-4b50-84f1-20c943581dbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Implementation Error: The backup process has failed to complete for Change Instance MC12, contact technical support. This message was triggered on 01-23-2023.']/parent::*</value>
+      <webElementGuid>8c2af7d4-5eec-4fd7-8046-def01a7fa4f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div[2]</value>
+      <webElementGuid>7cb3bc6c-6807-4617-941b-bb008b29836f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Implementation Error: The backup process has failed to complete for Change Instance MC12, contact technical support. This message was triggered on 01-23-2023.' or . = 'Implementation Error: The backup process has failed to complete for Change Instance MC12, contact technical support. This message was triggered on 01-23-2023.')]</value>
+      <webElementGuid>0fd2e98e-59ba-48cc-98cc-d2fbab5cd214</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
