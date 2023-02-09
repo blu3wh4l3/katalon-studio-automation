@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Name Here_css-19bqh2r_1_2</name>
+   <tag></tag>
+   <elementGuidId>687215d6-e051-4a38-ad0c-3ac017de60c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.genetateActivityTableRow-select__indicator.genetateActivityTableRow-select__dropdown-indicator.css-1gtu0rj-indicatorContainer > svg.css-19bqh2r</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Name Here'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>f3fc8995-35fc-402c-912d-71a168003708</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>69d4cbb7-d72d-4e88-9e73-ecb14e3eb14c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>f09405f0-5433-4f80-a0b7-a79c73965532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 20</value>
+      <webElementGuid>c02a94e7-6108-4108-9b56-497e8dd6fdc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bc104ab4-25d3-4aac-94f6-a39339a1ceb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>84b9e270-7fa0-41f5-b0de-a0b0f7d9d652</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-19bqh2r</value>
+      <webElementGuid>12b77133-cbe4-455f-a6e8-ad79b13c50b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;networkDetector&quot;)/div[@class=&quot;App&quot;]/div[1]/div[2]/div[@class=&quot;SideMenuListDiv&quot;]/div[@class=&quot;form-container&quot;]/div[@class=&quot;defineActivity-Container&quot;]/div[@class=&quot;defineActivity_section2&quot;]/div[@class=&quot;genAct-table&quot;]/div[@class=&quot;genAct-table-container&quot;]/div[@class=&quot;genAct-table-frame&quot;]/table[@class=&quot;table table-borderless&quot;]/tbody[@class=&quot;genAct-table-body&quot;]/tr[@class=&quot;genAct-table-body-row&quot;]/td[4]/div[@class=&quot;genetateActivityTableRow-select css-2b097c-container&quot;]/div[@class=&quot;genetateActivityTableRow-select__control genetateActivityTableRow-select__control--is-focused genetateActivityTableRow-select__control--menu-is-open css-1pahdxg-control&quot;]/div[@class=&quot;genetateActivityTableRow-select__indicators css-1wy0on6&quot;]/div[@class=&quot;genetateActivityTableRow-select__indicator genetateActivityTableRow-select__dropdown-indicator css-1gtu0rj-indicatorContainer&quot;]/svg[@class=&quot;css-19bqh2r&quot;]</value>
+      <webElementGuid>fe436be0-7832-45c6-b50a-63ff40792fae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name Here'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>3aed806c-e50f-46c8-b63e-11c98fb810f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compressor'])[2]/following::*[name()='svg'][4]</value>
+      <webElementGuid>44daa937-83c3-4288-af8e-cf0ef96e007e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Row'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>89afde4f-671e-479b-a911-9a6f5331cc14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>29a792de-6d38-4bb9-b2a1-7bfa2b2be389</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

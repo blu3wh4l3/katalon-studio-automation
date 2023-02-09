@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_123098ProjectActivity Testing-</name>
+   <tag></tag>
+   <elementGuidId>d15518dc-6655-4b72-9d4d-c8457c2eb9be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='networkDetector']/div/div/div/div[2]/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b6a7ffeb-b813-4200-bc90-ee55d9ce4854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>c740eebb-efe6-4ecf-8c51-2da3ca2570e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>123098ProjectActivity Testing-</value>
+      <webElementGuid>66638bbf-16ad-4d68-ae34-e38d62ee7167</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;networkDetector&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container-fluid px-4 landingContainer&quot;]/div[@class=&quot;project-category&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-6 col-xs-12 landingProjectCards&quot;]/div[@class=&quot;card landingcard&quot;]/div[@class=&quot;project-card-wrapper&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>87e85091-9171-44b4-b2a6-aaa62177ae6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='networkDetector']/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>9317bb93-a6bb-4d18-af2c-5f9a3061b0f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup in Progress'])[1]/following::div[7]</value>
+      <webElementGuid>48f2d206-c5ea-48dd-a72e-34e111bd913d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ED'])[1]/following::div[10]</value>
+      <webElementGuid>a7a5853a-6a2b-485b-984b-d5c3c08de59e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Engineering Execution'])[1]/preceding::div[3]</value>
+      <webElementGuid>9d3914ac-d166-413d-af0c-a523c540b401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/preceding::div[54]</value>
+      <webElementGuid>49d02cf2-5e2a-4f35-a738-d27c3cdb0ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>b26b266b-197d-45f5-9bcc-f6c75b4aae6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '123098ProjectActivity Testing-' or . = '123098ProjectActivity Testing-')]</value>
+      <webElementGuid>c19bba96-46ff-4af6-adcf-173cd81bfd7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

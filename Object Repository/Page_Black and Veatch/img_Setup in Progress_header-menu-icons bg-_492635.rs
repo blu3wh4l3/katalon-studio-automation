@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Setup in Progress_header-menu-icons bg-_492635</name>
+   <tag></tag>
+   <elementGuidId>98105ae0-18e4-4bc2-a2af-c7b9c0b46414</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='networkDetector']/div/div/div/div[2]/div/div/div[2]/div/img[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>aa5327df-3983-4b9f-9890-febae146c48b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Project Activities</value>
+      <webElementGuid>7105b2e4-8f51-43a6-83c6-fed941f22946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>de6499ca-2ed9-4a8e-b9d1-9667af938bde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header-menu-icons bg-transparent</value>
+      <webElementGuid>667c6d8c-004c-4956-82c2-3f7fc6b705ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/inactive.9dce4296.svg</value>
+      <webElementGuid>eac50866-d622-4bbd-abeb-026aef63042f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Project Activities</value>
+      <webElementGuid>49c1b85b-7cc0-43c8-a294-5957a41c7301</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;networkDetector&quot;)/div[@class=&quot;App&quot;]/div[@class=&quot;container-fluid px-4 landingContainer&quot;]/div[@class=&quot;project-category&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-sm-6 col-xs-12 landingProjectCards&quot;]/div[@class=&quot;card landingcard&quot;]/div[@class=&quot;card-icons&quot;]/div[@class=&quot;d-flex flex-wrap flex-gap&quot;]/img[@class=&quot;header-menu-icons bg-transparent&quot;]</value>
+      <webElementGuid>0c9e7e64-266d-4ea1-be9d-5b512875e457</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='networkDetector']/div/div/div/div[2]/div/div/div[2]/div/img[6]</value>
+      <webElementGuid>e4184f15-617b-49d6-857d-99abb7bdf923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Project Activities']</value>
+      <webElementGuid>895fa6a8-ced0-4b17-8503-2178a76ff52f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img[6]</value>
+      <webElementGuid>f756eeab-3f18-4473-8ab7-981a5931de0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Project Activities' and @src = '/static/media/inactive.9dce4296.svg' and @title = 'Project Activities']</value>
+      <webElementGuid>0daf01d2-ed27-483c-9630-168e98ca9e2f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
